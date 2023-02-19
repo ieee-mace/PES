@@ -1398,7 +1398,7 @@ section {
   }
 }
 
-.card{
+#event .card{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     max-width: 300px;
     margin: auto;
@@ -1409,7 +1409,7 @@ section {
     padding-top: 15px;
 }
 
-.card-img-top{
+#event .card-img-top{
    
     position: relative;
     overflow: hidden;
